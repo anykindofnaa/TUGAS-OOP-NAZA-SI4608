@@ -1,0 +1,4 @@
+1202223019,Naza,perempuan,08,bandung
+1202223019,naza,perempuan,08,bandung
+120222333,Naza,laki-laki,SI4608,Bandung
+120,Naza,perempuan,08,bandung
